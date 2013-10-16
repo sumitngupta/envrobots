@@ -1,4 +1,5 @@
 # Envrobots
+[![Gem Version](https://badge.fury.io/rb/envrobots.png)](http://badge.fury.io/rb/envrobots)
 
 Envrobots is a flexible robots.txt solution for Rails to use different robots.txt files depending on the environment.
 
