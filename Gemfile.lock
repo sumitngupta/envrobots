@@ -85,4 +85,5 @@ PLATFORMS
 
 DEPENDENCIES
   envrobots!
+  rails (~> 4.0.0)
   sqlite3
