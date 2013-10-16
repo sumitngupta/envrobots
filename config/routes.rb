@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'robots.txtt', to: 'robots#robots'
+  get 'robots.txt', to: 'envrobots/robots#index'
 end
