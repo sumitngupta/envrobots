@@ -14,3 +14,6 @@ rails g envrobots:install
 ```
 ### 2. Customize Robots Files
 Envrobots generates two robots.txt files, one for production and one for other environments. By default `robots.production.txt` will allow robots to crawl your site and `robots.other.txt` will prevent robots from crawling.
+
+## TODO
+- fix specs
