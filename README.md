@@ -1,4 +1,4 @@
-# Envrobots
+# envrobots
 [![Gem Version](https://badge.fury.io/rb/envrobots.png)](http://badge.fury.io/rb/envrobots)
 [![Code Climate](https://codeclimate.com/github/jamescmartinez/envrobots.png)](https://codeclimate.com/github/jamescmartinez/envrobots)
 
