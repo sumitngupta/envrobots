@@ -1,16 +1,16 @@
-= Envrobots
+# Envrobots
 
 Envrobots is a flexible robots.txt solution for Rails to use different robots.txt files depending on the environment.
 
-== Installation
+## Installation
 
 Add `envrobots` to your Gemfile and run the `bundle` command.
 
-== Getting Started
+## Getting Started
 
-=== 1. Generate Robots Files
+### 1. Generate Robots Files
 ```bash
 rails g envrobots:install
 ```
-=== 2. Customize Robots Files
+### 2. Customize Robots Files
 Envrobots generates two robots.txt files, one for production and one for other environments. By default `robots.production.txt` will allow robots to crawl your site and `robots.other.txt` will prevent robots from crawling.
